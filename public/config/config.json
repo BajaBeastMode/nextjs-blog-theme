@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x60ba38d20b888d2e3bbabe87dba74b925aeb3270",
+  "SCAN_LINK": "https://polygonscan.com/token/0x60ba38d20b888d2e3bbabe87dba74b925aeb3270",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CrYptoBully",
+  "SYMBOL": "CYBL",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptobully",
+  "SHOW_BACKGROUND": true
+}
